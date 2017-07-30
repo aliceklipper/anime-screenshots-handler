@@ -1,0 +1,17 @@
+{
+    "presets": [
+        [
+            "env",
+            {
+                "targets": {
+                    "node": "current"
+                }
+            }
+        ],
+        "flow",
+        "stage-0"
+    ],
+    "plugins": [
+        "flow-runtime"
+    ]
+}

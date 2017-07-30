@@ -1,0 +1,6 @@
+[ignore]
+<PROJECT_ROOT>/build/.*
+<PROJECT_ROOT>/temp/.*
+<PROJECT_ROOT>/var/.*
+<PROJECT_ROOT>/coverage/.*
+<PROJECT_ROOT>/cache/.*

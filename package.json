@@ -1,0 +1,24 @@
+{
+    "name": "anime-screenshots-handler",
+    "description": "Categorizes anime screenshots and copies them to the clipboard.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Alice Klipper <alice.klipper@yandex.com> (https://vk.com/alice.klipper)",
+    "repository": "aliceklipper/anime-screenshots-handler",
+    "license": "MIT",
+    "scripts": {
+        "start": "./start.sh"
+    },
+    "dependencies": {
+        "anitomyjs": "^1.4.2",
+        "babel-cli": "^6.24.1",
+        "babel-plugin-flow-runtime": "^0.11.1",
+        "babel-preset-env": "^1.6.0",
+        "babel-preset-flow": "^6.23.0",
+        "babel-preset-stage-0": "^6.24.1",
+        "debug": "^2.6.8",
+        "flow-runtime": "^0.14.0",
+        "mkdirp": "^0.5.1",
+        "uuid": "^3.1.0"
+    }
+}
